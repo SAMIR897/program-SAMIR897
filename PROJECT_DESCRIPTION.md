@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [TODO: add Vercel link after deployment]
+**Deployed Frontend URL:** https://program-samir-897.vercel.app
 
 **Solana Program ID:** As3b2ezRdvuFhQKH6C8FNJNm7s9YsqGhpyJE9LdF4Sr (deployed on devnet)
 
